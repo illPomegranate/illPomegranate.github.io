@@ -124,9 +124,7 @@ html, body{
         justify-content: center;
     }
     
-    #navbar a{
-        display: none;
-    }
+    
     .banner-text h1 {
         text-align: center;
         font-size: 24px;
