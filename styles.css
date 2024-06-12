@@ -109,12 +109,7 @@ html, body{
     padding-top: 60px;
   }
 
-  .hamburger{
-   display: block;
-    cursor: pointer;
-    max-width: 15%;
-    max-height: 15%;
-}
+
 
 
 @media only screen and (max-width: 768px) {
@@ -129,12 +124,7 @@ html, body{
         text-align: center;
         font-size: 24px;
     }
-    .hamburger{
-        float: inline-end;
-        position: absolute;
-        display: flex;
-        z-index: 12;
-    }
+
     .intro{
         text-align: center;
         padding: 15%;
